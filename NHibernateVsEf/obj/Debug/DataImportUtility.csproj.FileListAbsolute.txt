@@ -1,0 +1,71 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.exe.config
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\Debug\App.g.cs
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf_MarkupCompile.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf_MarkupCompile.lref
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\Debug\MainWindow.baml
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf.g.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.Core.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernate.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernate.Mapping.Attributes.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.Core.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernate.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\Debug\Iesi.Collections.xml
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.exe.config
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf.exe
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf.pdb
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.exe
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.pdb
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.Core.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernate.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernate.Mapping.Attributes.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\Iesi.Collections.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.Core.pdb
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernate.xml
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\Iesi.Collections.xml
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\DataImportUtility.csprojResolveAssemblyReference.cache
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\MainWindow.g.cs
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\App.g.cs
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf_MarkupCompile.cache
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf_MarkupCompile.lref
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\MainWindow.baml
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf.g.resources
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf.Properties.Resources.resources
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\DataImportUtility.csproj.GenerateResource.Cache
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\EntityFramework.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\EntityFramework.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.exe.config
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf.exe
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf.pdb
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.exe
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.pdb
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.Core.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\EntityFramework.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernate.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernate.Mapping.Attributes.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\Iesi.Collections.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.Core.pdb
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\EntityFramework.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernate.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\Iesi.Collections.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\DataImportUtility.csprojResolveAssemblyReference.cache
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\MainWindow.g.cs
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\App.g.cs
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf_MarkupCompile.cache
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf_MarkupCompile.lref
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\MainWindow.baml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf.g.resources
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\NHibernateVsEf.Properties.Resources.resources
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\Debug\DataImportUtility.csproj.GenerateResource.Cache

@@ -1,0 +1,57 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/Highlighting/AnalysisEnabled/@EntryValue">SOLUTION</s:String>
+	<s:Boolean x:Key="/Default/Environment/SearchAndNavigation/MergeOccurences/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=7DD10300557F493C9B2E1707A095C380/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=7DD10300557F493C9B2E1707A095C380/Name/@EntryValue">GetMostPopularArtistUsingEntityFramework_GetsMostPopularArtist</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=7DD10300557F493C9B2E1707A095C380/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="NHibernateVsEf.Core.Tests.Repositories.ArtistRepositoryTest" type="NUnitTestFixtureElement" Project="63ABEB39-1DB4-456F-8481-5C495A1A904A" /&gt;&lt;UnitTestElement Provider="nUnit" Id="NHibernateVsEf.Core.Tests.Repositories.UserProfileRepositoryTest" type="NUnitTestFixtureElement" Project="63ABEB39-1DB4-456F-8481-5C495A1A904A" /&gt;&lt;UnitTestElement Provider="nUnit" Id="NHibernateVsEf.Core.Tests.Repositories.ArtistRepositoryTest.GetMostPopularArtistUsingEntityFramework_GetsMostPopularArtist" ParentId="NHibernateVsEf.Core.Tests.Repositories.ArtistRepositoryTest" type="NUnitTestElement" TypeName="NHibernateVsEf.Core.Tests.Repositories.ArtistRepositoryTest" MethodName="GetMostPopularArtistUsingEntityFramework_GetsMostPopularArtist" Project="63ABEB39-1DB4-456F-8481-5C495A1A904A" /&gt;&lt;UnitTestElement Provider="nUnit" Id="NHibernateVsEf.Core.Tests.Repositories.ArtistRepositoryTest.GetMostPopularArtistUsingNHibernate_GetsMostPopularArtist" ParentId="NHibernateVsEf.Core.Tests.Repositories.ArtistRepositoryTest" type="NUnitTestElement" TypeName="NHibernateVsEf.Core.Tests.Repositories.ArtistRepositoryTest" MethodName="GetMostPopularArtistUsingNHibernate_GetsMostPopularArtist" Project="63ABEB39-1DB4-456F-8481-5C495A1A904A" /&gt;&lt;UnitTestElement Provider="nUnit" Id="NHibernateVsEf.Core.Tests.Repositories.ArtistRepositoryTest.RepositorySavesDownArtist" ParentId="NHibernateVsEf.Core.Tests.Repositories.ArtistRepositoryTest" type="NUnitTestElement" TypeName="NHibernateVsEf.Core.Tests.Repositories.ArtistRepositoryTest" MethodName="RepositorySavesDownArtist" Project="63ABEB39-1DB4-456F-8481-5C495A1A904A" /&gt;&lt;UnitTestElement Provider="nUnit" Id="NHibernateVsEf.Core.Tests.Repositories.UserProfileRepositoryTest.UsersFromNzUsingEf_GetsAllUsersFromNz" ParentId="NHibernateVsEf.Core.Tests.Repositories.UserProfileRepositoryTest" type="NUnitTestElement" TypeName="NHibernateVsEf.Core.Tests.Repositories.UserProfileRepositoryTest" MethodName="UsersFromNzUsingEf_GetsAllUsersFromNz" Project="63ABEB39-1DB4-456F-8481-5C495A1A904A" /&gt;&lt;UnitTestElement Provider="nUnit" Id="NHibernateVsEf.Core.Tests.Repositories.UserProfileRepositoryTest.UsersWithoutMusicUsingEf_GetsAllUsersFromNz" ParentId="NHibernateVsEf.Core.Tests.Repositories.UserProfileRepositoryTest" type="NUnitTestElement" TypeName="NHibernateVsEf.Core.Tests.Repositories.UserProfileRepositoryTest" MethodName="UsersWithoutMusicUsingEf_GetsAllUsersFromNz" Project="63ABEB39-1DB4-456F-8481-5C495A1A904A" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</wpf:ResourceDictionary>

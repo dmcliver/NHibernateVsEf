@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\DataImportUtilityTest.dll
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\DataImportUtilityTest.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.exe
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\nunit.framework.dll
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\nunit.framework.xml
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\obj\Debug\DataImportUtilityTest.dll
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\obj\Debug\DataImportUtilityTest.pdb

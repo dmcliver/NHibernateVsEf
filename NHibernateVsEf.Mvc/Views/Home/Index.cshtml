@@ -1,0 +1,37 @@
+﻿@model NHibernateVsEf.Mvc.Models.QueryTimerModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h3>NHibernate</h3>
+
+<table>
+    <tr>
+        <td>Most popular artist took</td>
+        <td>@Html.DisplayTextFor(m => m.MostPopluarArtistNhTime)</td>
+    </tr> 
+    <tr>
+        <td>Users from nz took</td>
+        <td>@Html.DisplayTextFor(m => m.UsersFromNzNhTime)</td>
+    </tr> 
+    <tr>
+        <td>Users with no music took</td>
+        <td>@Html.DisplayTextFor(m => m.UsersWithoutMusicNhTime)</td>
+    </tr>
+</table>
+<h3>Entity Framework</h3>
+
+<table>
+    <tr>
+        <td>Most popular artist took</td>
+        <td>@Html.DisplayTextFor(m => m.MostPopluarArtistEfTime)</td>
+    </tr> 
+    <tr>
+        <td>Users from nz took</td>
+        <td>@Html.DisplayTextFor(m => m.UsersFromNzEfTime)</td>
+    </tr> 
+    <tr>
+        <td>Users with no music took</td>
+        <td>@Html.DisplayTextFor(m => m.UsersWithoutMusicEfTime)</td>
+    </tr>
+</table>

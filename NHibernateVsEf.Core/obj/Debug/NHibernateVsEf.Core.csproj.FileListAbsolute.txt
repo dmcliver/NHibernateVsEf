@@ -1,0 +1,37 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernateVsEf.Core.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernateVsEf.Core.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernate.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernate.Mapping.Attributes.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernate.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf.Core\obj\Debug\NHibernateVsEf.Core.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf.Core\obj\Debug\NHibernateVsEf.Core.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernateVsEf.Core.dll.config
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernateVsEf.Core.dll.config
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernateVsEf.Core.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernateVsEf.Core.pdb
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\Iesi.Collections.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernate.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernate.Mapping.Attributes.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\Iesi.Collections.xml
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernate.xml
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Core\obj\Debug\NHibernateVsEf.Core.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Core\obj\Debug\NHibernateVsEf.Core.pdb
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\EntityFramework.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\EntityFramework.xml
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Core\obj\Debug\NHibernateVsEf.Core.csprojResolveAssemblyReference.cache
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernateVsEf.Core.dll.config
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernateVsEf.Core.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernateVsEf.Core.pdb
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\EntityFramework.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\Iesi.Collections.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernate.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernate.Mapping.Attributes.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\EntityFramework.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\Iesi.Collections.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Debug\NHibernate.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\obj\Debug\NHibernateVsEf.Core.csprojResolveAssemblyReference.cache
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\obj\Debug\NHibernateVsEf.Core.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\obj\Debug\NHibernateVsEf.Core.pdb

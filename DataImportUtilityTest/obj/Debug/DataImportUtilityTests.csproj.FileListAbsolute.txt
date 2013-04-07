@@ -1,0 +1,55 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\DataImportUtilityTest.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\DataImportUtilityTest.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\obj\Debug\DataImportUtilityTest.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\obj\Debug\DataImportUtilityTest.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.Core.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernate.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernate.Mapping.Attributes.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\Iesi.Collections.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.Core.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernate.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\Iesi.Collections.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\NHibernateVsEf\DataImportUtilityTest\bin\Debug\DataImportUtilityTest.dll.config
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\DataImportUtilityTest.dll.config
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\DataImportUtilityTest.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\DataImportUtilityTest.pdb
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.Core.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.exe
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\nunit.framework.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernate.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernate.Mapping.Attributes.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\Iesi.Collections.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.Core.pdb
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.pdb
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\nunit.framework.xml
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernate.xml
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\Iesi.Collections.xml
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\obj\Debug\DataImportUtilityTests.csprojResolveAssemblyReference.cache
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\obj\Debug\DataImportUtilityTest.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\obj\Debug\DataImportUtilityTest.pdb
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\EntityFramework.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\EntityFramework.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\DataImportUtilityTest.dll.config
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\DataImportUtilityTest.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\DataImportUtilityTest.pdb
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.Core.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.exe
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\nunit.framework.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\EntityFramework.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernate.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernate.Mapping.Attributes.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\Iesi.Collections.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.Core.pdb
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernateVsEf.pdb
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\nunit.framework.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\EntityFramework.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\NHibernate.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\bin\Debug\Iesi.Collections.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\obj\Debug\DataImportUtilityTests.csprojResolveAssemblyReference.cache
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\obj\Debug\DataImportUtilityTest.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\DataImportUtilityTest\obj\Debug\DataImportUtilityTest.pdb

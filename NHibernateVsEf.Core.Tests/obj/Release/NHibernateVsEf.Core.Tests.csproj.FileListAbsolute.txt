@@ -1,0 +1,17 @@
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\NHibernateVsEf.Core.Tests.dll.config
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\NHibernateVsEf.Core.Tests.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\NHibernateVsEf.Core.Tests.pdb
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\Iesi.Collections.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\NHibernate.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\NHibernateVsEf.Core.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\nunit.framework.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\EntityFramework.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\NHibernate.Mapping.Attributes.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\NHibernateVsEf.Core.pdb
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\Iesi.Collections.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\NHibernate.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\nunit.framework.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\bin\Release\EntityFramework.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\obj\Release\NHibernateVsEf.Core.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\obj\Release\NHibernateVsEf.Core.Tests.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core.Tests\obj\Release\NHibernateVsEf.Core.Tests.pdb

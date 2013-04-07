@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\x64\Debug\NHibernateVsEf.exe.config
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\x64\Debug\NHibernateVsEf.exe
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\x64\Debug\NHibernateVsEf.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x64\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x64\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x64\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x64\Debug\NHibernateVsEf_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x64\Debug\NHibernateVsEf_MarkupCompile.lref
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x64\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x64\Debug\NHibernateVsEf.g.resources
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x64\Debug\NHibernateVsEf.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x64\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x64\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x64\Debug\NHibernateVsEf.exe
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x64\Debug\NHibernateVsEf.pdb

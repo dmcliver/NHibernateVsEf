@@ -1,0 +1,16 @@
+﻿<Window x:Class="NHibernateVsEf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Data import utility" Height="350" Width="525" xmlns:vm="clr-namespace:NHibernateVsEf.ViewModels">
+    
+    <Window.Resources>
+        <vm:DataImportViewModel x:Key="DataImportVm"></vm:DataImportViewModel>
+    </Window.Resources>
+    
+    <Grid Background="#FFECE9D8" DataContext="{StaticResource DataImportVm}">
+        <Button Background="#FFECE9D8" Content="Open file..." Height="23" HorizontalAlignment="Right" Name="OpenFileBttn" VerticalAlignment="Center" Width="75" Margin="0,0,12,0" Command="{Binding DisplayDialogCmd}"/>
+        <TextBox Height="23" HorizontalAlignment="Stretch" Margin="12,0,100,0" Name="FilePathTxtBx" VerticalAlignment="Center" />
+        <Label Foreground="Red" Content="{Binding ErrorLabel}" Height="100" HorizontalAlignment="Left" Name="ErrorLbl" Margin="12,130,0,0" VerticalAlignment="Center" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="20,0,0,50" Name="ProgressTxt" Text="{Binding Progress}" VerticalAlignment="Center" />
+    </Grid>
+</Window>

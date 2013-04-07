@@ -1,0 +1,19 @@
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.exe
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\NHibernateVsEf_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\NHibernateVsEf_MarkupCompile.lref
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\NHibernateVsEf.g.resources
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\NHibernateVsEf.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\NHibernateVsEf.exe
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\NHibernateVsEf.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.exe.config
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\bin\Debug\NHibernateVsEf.exe.config
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\NHibernateVsEf.exe
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf\obj\x86\Debug\NHibernateVsEf.pdb

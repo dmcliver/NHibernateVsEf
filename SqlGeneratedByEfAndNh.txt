@@ -1,0 +1,73 @@
+Entity framework (Variable names have been cleaned up from original first two queries for readability)
+=========================================================================================
+
+1)Users with out music:
+
+SELECT 
+[ut].[Id] AS [Id], 
+[ut].[UserId] AS [UserId], 
+[ut].[TrackId] AS [TrackId]
+FROM   [dbo].[UserProfile] AS [u1]
+LEFT OUTER JOIN [dbo].[UserTrack] AS [ut] ON [u1].[Id] = [ut].[UserId]
+LEFT OUTER JOIN [dbo].[UserProfile] AS [u2] ON [ut].[UserId] = [u2].[Id]
+WHERE [u2].[Id] IS NULL
+
+2)Users from NZ:
+
+SELECT * FROM UserProfile WHERE Country LIKE '%ew%ealan%'
+
+3)Most popular artist:
+
+SELECT 
+[Project4].[C2] AS [C1], 
+[Project4].[Name] AS [Name], 
+[Project4].[C1] AS [C2]
+FROM ( SELECT 
+	[GroupBy1].[A1] AS [C1], 
+	[GroupBy1].[K1] AS [Name], 
+	1 AS [C2]
+	FROM ( SELECT 
+		[Extent1].[Name] AS [K1], 
+		COUNT(1) AS [A1]
+		FROM  [dbo].[Artist] AS [Extent1]
+		INNER JOIN [dbo].[Track] AS [Extent2] ON  EXISTS (SELECT 
+			1 AS [C1]
+			FROM    ( SELECT 1 AS X ) AS [SingleRowTable1]
+			LEFT OUTER JOIN  (SELECT 
+				[Extent3].[Id] AS [Id]
+				FROM [dbo].[Artist] AS [Extent3]
+				WHERE [Extent2].[ArtistId] = [Extent3].[Id] ) AS [Project1] ON 1 = 1
+			LEFT OUTER JOIN  (SELECT 
+				[Extent4].[Id] AS [Id]
+				FROM [dbo].[Artist] AS [Extent4]
+				WHERE [Extent2].[ArtistId] = [Extent4].[Id] ) AS [Project2] ON 1 = 1
+			WHERE [Extent1].[Id] = [Project1].[Id]
+		)
+		GROUP BY [Extent1].[Name]
+	)  AS [GroupBy1]
+)  AS [Project4]
+ORDER BY [Project4].[C1] DESC
+
+
+NHibernate (Variable names have been cleaned up from original query for readability)
+=========================================================================================
+
+1) Users with out music:
+
+SELECT t.Id as tId, t.UserId as UserId, t.TrackId as TrackId, u.Id as uId, u.Gender as Gender, u.Age as Age, u.Country as Country 
+FROM UserTrack t 
+RIGHT OUTER join UserProfile u ON t.UserId=u.Id 
+WHERE t.Id IS NULL
+
+2) Users from NZ:
+
+SELECT * FROM UserProfile WHERE Country LIKE '%ew%ealan%'
+
+3) Most popular artist:
+
+SELECT TOP (1)  a.Name as ArtistName, count(t.Id) as TrackCount 
+FROM Track t 
+INNER JOIN Artist a ON t.ArtistId = a.Id 
+GROUP BY a.Name 
+ORDER BY COUNT(t.Id) DESC
+

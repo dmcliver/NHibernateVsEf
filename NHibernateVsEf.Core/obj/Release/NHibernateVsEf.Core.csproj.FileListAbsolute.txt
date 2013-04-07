@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Release\NHibernateVsEf.Core.dll.config
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Release\NHibernateVsEf.Core.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Release\NHibernateVsEf.Core.pdb
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Release\EntityFramework.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Release\Iesi.Collections.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Release\NHibernate.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Release\NHibernate.Mapping.Attributes.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Release\EntityFramework.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Release\Iesi.Collections.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\bin\Release\NHibernate.xml
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\obj\Release\NHibernateVsEf.Core.csprojResolveAssemblyReference.cache
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\obj\Release\NHibernateVsEf.Core.dll
+C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Core\obj\Release\NHibernateVsEf.Core.pdb
