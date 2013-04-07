@@ -1,4 +1,6 @@
-﻿using System.Linq;
+﻿
+using System.Data.Objects;
+using System.Linq;
 using NHibernateVsEf.Core.Domain;
 using NHibernateVsEf.Core.IocAttributes;
 

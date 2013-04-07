@@ -1,6 +1,5 @@
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\NHibernateVsEf.Mvc.dll
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\NHibernateVsEf.Mvc.pdb
-C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\EntityFramework.dll
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\System.Web.Helpers.dll
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\System.Web.Mvc.dll
@@ -9,7 +8,6 @@ C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\System.Web.Razor
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\System.Web.WebPages.Deployment.dll
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\System.Web.WebPages.dll
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\System.Web.WebPages.Razor.dll
-C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\EntityFramework.xml
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\System.Web.Helpers.xml
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\System.Web.Mvc.xml
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\System.Web.Razor.xml
@@ -19,14 +17,11 @@ C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\System.Web.WebPa
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\obj\Debug\NHibernateVsEf.Mvc.dll
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\obj\Debug\NHibernateVsEf.Mvc.pdb
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\NHibernate.dll
-C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\NHibernateVsEf.Core.dll
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\Ninject.dll
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\Ninject.Extensions.Conventions.dll
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\Ninject.Web.Common.dll
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\Ninject.Web.Mvc.dll
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\WebActivator.dll
-C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\NHibernate.Mapping.Attributes.dll
-C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\NHibernateVsEf.Core.pdb
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\NHibernate.xml
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\Ninject.pdb
 C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\Ninject.xml
@@ -78,3 +73,10 @@ C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\Iesi.Collection
 C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\obj\Debug\NHibernateVsEf.Mvc.csprojResolveAssemblyReference.cache
 C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\obj\Debug\NHibernateVsEf.Mvc.dll
 C:\Users\Windows-7\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\obj\Debug\NHibernateVsEf.Mvc.pdb
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\Iesi.Collections.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\Iesi.Collections.xml
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\NHibernateVsEf.Core.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\EntityFramework.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\NHibernate.Mapping.Attributes.dll
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\NHibernateVsEf.Core.pdb
+C:\Users\danielmc\Desktop\NHibernateVsEf\NHibernateVsEf.Mvc\bin\EntityFramework.xml
