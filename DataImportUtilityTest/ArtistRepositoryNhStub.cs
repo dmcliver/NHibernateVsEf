@@ -19,7 +19,7 @@ namespace DataImportUtilityTest
             _artist = artist;
         }
 
-        public Artist FindByName(string s)
+        public Artist FindByName(string artistName)
         {
             return _artist;
         }

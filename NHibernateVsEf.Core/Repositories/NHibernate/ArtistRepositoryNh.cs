@@ -3,7 +3,6 @@ using NHibernate.Criterion;
 using NHibernateVsEf.Core.Domain;
 using NHibernateVsEf.Core.Domain.NHibernate;
 using NHibernateVsEf.Core.IocAttributes;
-using NHibernateVsEf.Core.Repositories.EntityFramework;
 
 namespace NHibernateVsEf.Core.Repositories.NHibernate
 {
@@ -14,15 +13,21 @@ namespace NHibernateVsEf.Core.Repositories.NHibernate
 
         public ArtistRepositoryNh() : this(new SessionFactoryBuilder().BuildSessionFactory("thread_static")) { }
 
-        public Artist FindByName(string s)
+        /// <summary>
+        /// Finds the artist by name
+        /// </summary>
+        public Artist FindByName(string artistName)
         {
             ISession session = SessionFactory.GetCurrentSession();
             return session.CreateCriteria<Artist>()
-                .Add(Restrictions.Eq("Name", s))
+                .Add(Restrictions.Eq("Name", artistName))
                 .SetMaxResults(1)
                 .UniqueResult<Artist>();
         }
 
+        /// <summary>
+        /// Saves the artist down to the local persistant store and syncs it with the database
+        /// </summary>
         public void Save(Artist artist)
         {
             ISession session = SessionFactory.GetCurrentSession();
@@ -30,6 +35,9 @@ namespace NHibernateVsEf.Core.Repositories.NHibernate
             session.Flush();
         }
 
+        /// <summary>
+        /// Gets the most popular artist
+        /// </summary>
         public ArtistTrackCount GetMostPopularArtist()
         {
             ISession session = SessionFactory.GetCurrentSession();
