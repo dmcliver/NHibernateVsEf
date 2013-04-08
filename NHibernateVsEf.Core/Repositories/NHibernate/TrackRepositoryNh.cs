@@ -12,6 +12,9 @@ namespace NHibernateVsEf.Core.Repositories.NHibernate
 
         public TrackRepositoryNh():this(new SessionFactoryBuilder().BuildSessionFactory("thread_static")){}
 
+        /// <summary>
+        /// Finds the track by its track title
+        /// </summary>
         public Track FindByTitle(string s)
         {
             ISession session = SessionFactory.GetCurrentSession();
@@ -21,6 +24,10 @@ namespace NHibernateVsEf.Core.Repositories.NHibernate
                 .UniqueResult<Track>();
         }
 
+        /// <summary>
+        /// Saves the track to the local persistant store and flushs the changes
+        /// </summary>
+        /// <param name="track"></param>
         public void Save(Track track)
         {
             ISession session = SessionFactory.GetCurrentSession();

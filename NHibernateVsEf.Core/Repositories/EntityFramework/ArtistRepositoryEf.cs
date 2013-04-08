@@ -16,6 +16,9 @@ namespace NHibernateVsEf.Core.Repositories.EntityFramework
             _context = new EfContext(Constants.ConnectionStringName);
         }
 
+        /// <summary>
+        /// Finds the mout popular artist
+        /// </summary>
         public ArtistTrackCount GetMostPopularArtist() 
         {
             var result = (

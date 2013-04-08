@@ -11,6 +11,10 @@ namespace NHibernateVsEf.Core.Repositories.NHibernate
 
         public UserTrackRepositoryNh():this(new SessionFactoryBuilder().BuildSessionFactory("thread_static")){}
 
+        /// <summary>
+        /// Saves the track to the local persistant store
+        /// </summary>
+        /// <param name="userTrack"></param>
         public void Save(UserTrack userTrack)
         {
             ISession session = SessionFactory.GetCurrentSession();

@@ -24,12 +24,19 @@ namespace NHibernateVsEf.Core.Repositories.NHibernate
 
         public UserProfileRepositoryNh():this(new SessionFactoryBuilder().BuildSessionFactory("thread_static")){}
 
+        /// <summary>
+        /// Saves the user profile to local persistant store
+        /// </summary>
+        /// <param name="profile"></param>
         public void Save(UserProfile profile)
         {
             ISession session = _sessionFactory.GetCurrentSession();
             session.Save(profile);
         }
 
+        /// <summary>
+        /// Syncs the local persistant store with the database
+        /// </summary>
         public void SyncDb()
         {
             ISession session = _sessionFactory.GetCurrentSession();
@@ -37,12 +44,18 @@ namespace NHibernateVsEf.Core.Repositories.NHibernate
             session.Clear();
         }
 
+        /// <summary>
+        /// Finds the user by id
+        /// </summary>
         public UserProfile FindById(string id)
         {
             ISession session = _sessionFactory.GetCurrentSession();
             return session.Load<UserProfile>(id);
         }
 
+        /// <summary>
+        /// Finds all users who do not have a music collection
+        /// </summary>
         public IList UsersWithoutMusic()
         {
             ISession session = _sessionFactory.GetCurrentSession();
@@ -53,6 +66,9 @@ namespace NHibernateVsEf.Core.Repositories.NHibernate
             return list;
         }
 
+        /// <summary>
+        /// Finds all users from nz
+        /// </summary>
         public IList<UserProfile> UsersFromNz()
         {
             ISession session = _sessionFactory.GetCurrentSession();

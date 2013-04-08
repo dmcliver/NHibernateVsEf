@@ -15,6 +15,9 @@ namespace NHibernateVsEf.Core.Repositories.NHibernate
             CurrentSessionContext.Bind(sessionFactory.OpenSession());
         }
 
+        /// <summary>
+        /// Syncs the local persistant store with the database 
+        /// </summary>
         public void SyncDb()
         {
             ISession session = SessionFactory.GetCurrentSession();

@@ -13,6 +13,11 @@ namespace NHibernateVsEf.Core.Repositories.EntityFramework
         {
             _context = new EfContext(Constants.ConnectionStringName);
         }
+
+        /// <summary>
+        /// Finds all users without a music collection
+        /// </summary>
+        /// <returns></returns>
         public IEnumerable<UserTrackEf> UsersWithoutMusic()
         {
             var q = from u in _context.Users
@@ -25,6 +30,9 @@ namespace NHibernateVsEf.Core.Repositories.EntityFramework
             return q.ToList();
         }
 
+        /// <summary>
+        /// Finds all users from Nz
+        /// </summary>
         public IEnumerable<UserProfileEf> UsersFromNz()
         {
             IQueryable<UserProfileEf> userProfileEfs = _context.Users.Where(u => u.Country.Contains("ew") && u.Country.Contains("ealan"));
